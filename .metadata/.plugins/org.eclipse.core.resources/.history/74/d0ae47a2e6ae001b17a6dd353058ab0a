@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+@import url(//fonts.googleapis.com/earlyaccess/hanna.css);
+
+*{
+	font-family : 'Hanna', sans-serif;
+}
+h2, h4{
+	font-family : 'Hanna', sans-serif;
+}
+.jumbotron{
+	color:white;
+	background-image: linear-gradient(to top,  #a6c1ee 15%, #b721ff 100%);
+}
+.navbar-default{
+	background-color:#b721ff;
+}
+.navbar .nav > li > a {
+	color:white;
+}
+.navbar .navbar-right{
+	color:white;
+}
+.navbar .navbar-header .navbar-brand{
+	color:white;
+}
+.navbar-default .navbar-toggle .icon-bar{
+	background-color:white;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{
+	background-color : #4c0082;
+}
+.navbar-default {
+    background-color: #b721ff;
+    color:white;
+}

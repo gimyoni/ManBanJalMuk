@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+@import url(//fonts.googleapis.com/earlyaccess/hanna.css);
+@import url("https://fonts.googleapis.com/css2?family=Song+Myung&display=swap")
+
+*{
+	font-family : 'Song Myung', sans-serif;
+}
+
+h1{
+	font-family : 'Song Myung', sans-serif;
+}
